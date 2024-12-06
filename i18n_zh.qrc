@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/i18n">
+        <file>lang_Chinese.qm</file>
+    </qresource>
+</RCC>
